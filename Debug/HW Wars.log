@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\ITStep\2 курс\ДЗ\HW Wars\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW Wars.vcxproj -> F:\ITStep\2 курс\ДЗ\HW Wars\Debug\HW Wars.exe
